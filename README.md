@@ -62,8 +62,7 @@ chmod 755 forkcheck.o
 
 ##OUTPUT
 
-![Alt text](2.1.png)
-
+![Alt text](2.0.png)
 
 
 
